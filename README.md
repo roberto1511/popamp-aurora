@@ -47,3 +47,4 @@ Path=
 Note:
 - This is an unofficial companion tool for Popamp. Not affiliated with or endorsed by Popamp.
 - The other app in the image is https://github.com/roberto1511/popamp-albumlist it will scan your music and show you albums, you can also find album artwork online automatically will embed it to the audio files of the album.
+- This is a work in progress there are improvements to be made I am not a professional if you are a professional python developer and you like this I will appreciate your contribution.
