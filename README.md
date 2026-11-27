@@ -44,3 +44,5 @@ StartupWMClass=popamp-aurora
 Path=
 ```
 
+Note:
+This is an unofficial companion tool for Popamp. Not affiliated with or endorsed by Popamp.
