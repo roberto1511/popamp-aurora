@@ -45,4 +45,5 @@ Path=
 ```
 
 Note:
-This is an unofficial companion tool for Popamp. Not affiliated with or endorsed by Popamp.
+- This is an unofficial companion tool for Popamp. Not affiliated with or endorsed by Popamp.
+- The other app in the image is https://github.com/roberto1511/popamp-albumlist it will scan your music and show you albums, you can also find album artwork online automatically will embed it to the audio files of the album.
